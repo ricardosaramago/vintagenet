@@ -1,0 +1,361 @@
+Lista de BBSs Publicas em Portugal    | List of Public BBSs in Portugal
+==================================    | ===============================
+restrita a BBSs que troquem Shareware | restricted to BBSs that exchange
+                                      | Shareware
+                                      |
+Ultima modificacao: 29-Mai-94         | Last updated: 29-May-94
+                                      |
+Disclaimer: A informacao esta'        | Disclaimer:
+sujeita a modificacao sem aviso       | The information is subject to change
+previo. Os autores nao assumem        | without notice. The authors assume no
+nenhuma responsabilidade pelo seu uso.| responsibility for its use.
+                                      |
+Inclui elementos da lista de BBS do   | Includes elements from the BBS list
+Walter Marques, SysOp da Express BBS  | by Walter Marques, SysOp of Express BBS
+                                      |
+Adicoes, modificacoes e sugestoes sao | Additions, modifications and
+benvindas; por favor mande-as por     | sugestions are welcome; please send
+FidoNet netmail para Rogerio Pereira  | them by FidoNet netmail to Rogerio
+para a Visus BBS (2:362/2@fidonet),   | Pereira at Visus BBS (2:362/2@fidonet)
+ou internet email para p...@inesc.pt  | or internet email to p...@inesc.pt
+                                      |
+Esta lista pode ser encontrada em:    | This list can also be found on:
+
+anonymous ftp://ftp.fct.unl.pt:/pub/portugal/contrib/pt-bbs/pt-bbs.txt
+IP=[192.68.178.2]
+gopher://gopher.fct.unl.pt:7070/contrib/pt-bbs.txt
+WWW URL http://s700.uminho.pt/Portugal/pt-bbs.txt
+
+Vencedores do VISUS BBS AWARD 1993:   | Winners of the VISUS BBS AWARD 1993:
+
+                               - BBSs -
+
+        1. THE MAIL HOUSE         (SysOp - Carlos Santos)
+        2. SKYSHIP                (SysOp - Mario Pozzetti)
+        3. INTRIGA INTERNACIONAL  (SysOp - Afonso Vicente)
+
+                              - SYSOPs -
+
+        1. AFONSO VICENTE         (BBS - Intriga Internacional)
+        2. CARLOS SANTOS          (BBS - The Mail House)
+        3. MARIO POZZETTI         (BBS - Skyship)
+
+Convencoes usadas na listagem         | Conventions used in the listing
+-----------------------------         | -------------------------------
+(da esquerda para a direita)          | (from left to right)
+                                      |
+Tema:   A - Amiga                     | Topic:  A - Amiga
+        E - Educacao                  |         E - Education
+        G - Graficos e Imagem         |         G - Graphics and Image
+        H - Saude                     |         H - Health
+        I - Macintosh                 |         I - Macintosh
+        M - Multiplos                 |         M - Multiple
+        O - Outros                    |         O - Other
+        P - PC compativeis            |         P - PC compatibles
+        S - Som e Musica              |         S - Sound and Music
+        X - X-rated (Adultos)         |         X - X-rated (Adults)
+
+Software: a - AmiExpress    b - RoboBOARD/FX  c - C-NET
+          e - Ezycom        f - SpitFire      F - FreeSpeech
+          m - Maximus       o - Opus          O - Osiris
+          p - PcBoard       q - QuickBBS      r - RBBS
+          R - Remote Access s - Synchronet    S - SuperBBS
+          t - Telegard      u - UltraBBS      X - Xenolink
+          1 - FirstClass    x - Excalibur
+
+Cap: Capacidade total em-linha em Mb  | Cap:  Total online capacity in Mb
+
+Mail:   c - Centipede  f - FidoNet          g - GeniusNet   i - Intelec
+        I - Internet   l - LusoNet/FreeNet  m - MagicNet    r - RelayNet
+        t - TacoNet    u - Usenet           w - WorldNet
+
+Acesso/Access:
+          M - MNP / V.42
+          U - USRobotics HST
+          H - HST Dual Standard (HST+V.32bis+V.42bis)
+          Z - ZyXel (ZyXel+V.32bis+V.42bis)
+          T - V.32 Terbo (AT&T V.32Terbo+V.32bis+V.42bis)
+          F - Rockwell's V.Fast Class (V.FC+V.32bis+V.42bis)
+          I - RDIS/ISDN
+
+$ - Acesso restrito, acesso total por | $ - Access restricted, full access
+    contribuicao                      |     for a fee
+C - Acesso Condicionado               | C - Access Conditioned
+# - RingBack (ligar, deixar tocar 2   | # - RingBack (call, let it ring twice,
+    vezes, desligar e tornar a ligar) |     hang-up and call again)
+                                      |
+Note que algumas BBSs teem um horario | Note that some BBSs have a different
+diferente aos fins de semana.         | timetable at weekends.
+                                      |
+Para telefonar de fora de Portugal,   | To call from outside Portugal, remove
+retire o "0" inicial do numero e      | the first "0" in the number and add
+acrescente o indicativo               | the country code (usually 351).
+internacional, normalmente 351.       |
+
+BBSs ACTIVAS:                         | ACTIVE BBSs:
+-------------                         | ------------
+
+Nome/Name     Sysop   Tema/Topic S  Cap  Mail  Acesso/Access
+-------------+----------------+-+-+----+------+-------------------------------
+A CAVERNA     Paulo Osorio     P t 2500   fl   (01)4868443 19.2k Z 24h
+
+A REDE                         O               (01)7977577
+
+Another World Sergio Lopes                     (01)9801853
+
+ANTS'NEST     Henrique Ferreira  p  260   flm  (039)20203  14.4k M 20:00-08:00
+
+ARLex CBIS                                     (01)3951096
+
+ARMAGEDDON    Miguel Melo        u ?+CD        (01)4180784 14.4k M 23:30-04:30
+              m...@fct.unl.pt
+
+ATOS CBIS     Vitor Castelo      O 1760   flm  (01)2745808 14.4k M 24h
+                                               (01)2744727 24.0k F 24h
+
+B-LINK        Antonio Jorge    P p  600   flr  (01)4919755 16.8k H 24h
+
+BAT           Paulo Laureano   A X 1200   fl   (01)705070  14.4k M 24h
+                                   +1CD
+
+BATCHCAVE     Gustavo Carreno    b    ?   flm  (039)724846 14.4k M 00:00-08:00
+
+BAZAR         Paulo Teixeira     o    ?   f    (034)382691  2400   24h
+
+BOARDWALK     Pedro Metello      R  210   fl   (01)8498342 24.0k M 24h
+
+BBSPOOLER     Jorge Rebelo       p    ?        (01)4752289  2400 M 18:00-10:00
+
+C.A.S.E.      Antonio Gil        u  270      m (071)230699 14.4k   24h
+
+C.A.T.S.      Rui Monteiro     A c    ?        (01)3954132 14.4k M 10:00-00:00
+
+CATS          Vitor Marques    M p 6000   fglm (01)8460426 14.4k M 24h $
+              Pedro Duarte         +9CD        (01)8460933 14.4k M 24h $
+                                               (01)8460934  9600 M 24h $
+                                               (01)8461425  9600 M 24h $
+                                               (01)8461930  9600 M 24h $
+                                               (01)8461931  9600 M 24h $
+                                               (01)8461932 14.4k M 24h $
+                                               (01)8462422  9600 M 24h $
+                                               (01)8460423  9600 M 24h $
+                                               (01)8460424  9600 M 24h $
+
+CIBER         Fernando Edgar     S    ?   f    (02)5507679 14.4k H 24h
+
+CIRIUS        Francisco Rocha    ? 1500   f    (044)811820 14.4k M 22:00-08:00
+
+CLIP-DO-IT    Norberto Cruz    M R  430   flm  (056)592082 14.4k M 21:00-08:00
+
+CROCODILE Z.  Michael Santos   A X  200   fl   (01)7571083 14.4k H 24h C
+
+DAILY NEWS    Duarte Oliveira    R    ?  flmtw (01)8460390 14.4k M 24h
+
+DARK ZONE     Franscisco C.    A c  620   fl   (01)9336700 16.8k H 24h
+                                   +1CD        (01)9327526 14.4k U 00:00-19:00
+
+DATALINK      Antonio Cerqueira  p    ?   flrw (01)7262878 14400   24h
+
+DIGITAL ILL.  Luis Antunes       u    ?  fglmw (01)4956243 14.4k M 24h
+
+EAGLES NEST   Jose Carlos      P m   86    g   (01)4101551  2400 M 00:00-08:00
+
+EXPRESS       Walter Marques   P u  260   fl   (01)4913904 14.4k M 24h
+                                               (01)4913907  2400   24h
+
+GAME OVER     Pedro Braz         ?    ?   flmt (01)7166464 14.4k M 22:00-06:00
+
+GENESIS       Jorge Rebelo       R  202   flm  (01)8520478 14.4k M 24h
+
+HARD CORE     Carlos Bernardino  R  800   f    (02)7835935 14.4k M 24h
+                                               (02)7835936  9600 M 24h
+
+IELINE        Joao Ledo        P q  150   f    (02)7310328 14.4k M 24h
+
+IMAGinE NET   Jose Almeida     G p    ? r      (01)7786640 14.4k M 24h
+
+INDY          Antonio Pires    P f  500  flmtw (01)9207330  9600 M 20:00-08:00 $
+
+INFORLANDIA   Vasco Santos       p 2000   fl   (034)382467 14.4k M 24h
+                                               (034)20417  14.4k M 24h
+
+INTER         Henrique Brandao   S    ?   f m  (056)573820  9600 20:00-08:00
+
+INTRIGA INT.  Afonso Vicente   P p 1440 cfglmr (01)4352629 16.8k Z 21:00-09:00
+                                        tw
+
+KAOS          Pedro Lima       P R 1000   fl   (01)8869085 16.8k Z 00:00-09:00
+
+L-A-B-S       Luis Salgueiro     ?    ?   f    (044)815212 14.4k M 24h
+
+LOST FILES    Jorge Fontes       ? 1000   fm   (02)721111  14.4k M 24h
+
+LUSUS         Marco Campos       ?    ?   fl   (052)312884 16.8k H 22:00-08:00
+
+LYNKS         Alexandre Pedro    ?    ?   flm  (01)9214540 14.4k M 01:00-06:00
+
+MAC           Paulo Pina       I 1   80   f    (01)8477841 16.8k H 24h $
+                                   +1CD        (01)8420020   64k I 24h $
+
+MAD           Paulo Jacob        ?    ?   f    (02)3706922  9600 M 24h
+
+MAGICLAND     Alexandre Card.    c        fl   (01)9565771 14.4k   24h
+
+MCR           Nuno Coelho      M ?  318        (02)5104669  9600   24h
+
+MEDICIS       Dutra Lacerda    H s    ?   fl   (01)7966595 14.4k Z 24h
+
+MICRO         Carlos Meira     M R  340   flm  (053)517269 28.8k F 24h
+                                   +1CD
+
+MIDI-THRU     Fausto Carvalho  S o  100   f    (034)313554  9600 M 24h
+
+MINERVA       Joao Freitas     E ?  600  flIru (01)2954365 14.4k   24h C
+              j...@fct.unl.pt                   (01)2957738  2400   24h C
+                                               (01)2957739  2400   24h C
+                                               (01)2954495  2400   24h C
+
+MSMAC         Luis Silva       M p 1000   flr  (061)314336 14.4k M 24h
+                                               (061)314632 14.4k M 24h
+                                               (061)314504  2400   24h
+
+MULTIMEDIA    Eduardo Reis     M R 1100   fl   (052)45757  14.4k U 24h
+
+NONAME        Joao Monarca       R    ?   flm  (01)4431693 14.4k M 01:00-06:00
+
+No Name       Alexandre Jorge         ?        (039)440046 16.8k   24h
+
+O PINHAL      Armando Arranja    m  245   fl   (01)2362557 14.4k M 22:00-06:00
+
+OBJECTIF      Francisco Carvalho ?    ?   ft   (044)812256 14.4k M 24h
+
+Of. Sao Jose  ?                  ?    ?        (01)3911537
+
+OMEGA         Fernando Rego      f    ?   fltw (01)9444066 14.4k M 24h
+                                               (01)9442467 14.4k M 00:00-08:00
+
+Online X-Press ?                 p    ?   ?    ?           16.8k   24h
+
+PARADISE CITY Hugo Ferreira      t  450   f    (01)4602328 14.4k M 20:00-12:00
+
+PENINSULAR    Joao Tapadinhas    u    ?   fglm (01)7935090  2400 00:00-08:00
+
+PIPELINE      Paulo Monteiro     b    ? fglmtw (01)9476084 14.4k M 24h
+
+POWER LINE    Jean Luz           f 5000   flt  (01)3478460 16.8k H 24h
+                                               (01)3477936 16.8k H 24h
+                                               (01)3477937 14.4k H 24h
+                                               (01)3430867 16.8k H 24h
+                                               (01)3430868 14.4k H 24h
+                                               (01)3430869 14.4k H 24h
+                                               (01)3430870 14.4k H 24h
+                                               (01)3430871 14.4k M 24h
+                                               (01)3430872 14.4k M 24h
+
+PRAXIS        Leonel Morgado     ?    ?        (039)33685   2400 17:30-10:00
+
+PROGRAMMERS P Pedro Lourenco     p  250 fglmtw (01)9832308 14.4k M 00:00-08:00
+
+QUARK         Jose Peixoto     A c  305   fltw (01)7571084 14.4k H 24h
+
+REAL TECHNO   Fernando Teodosio  p 1500        (01)7576061 16.8k H 24h
+                                               (01)7574222 16.8k H 24h
+
+REXUTOS       Miguel Delgado     p    ?    l   (01)4524426 14.4k M 24h
+
+SANDMAN       Nuno Baptista      R    ?   fl   (01)9444900 14.4k M 24h
+
+SEVEN STARS   Pedro Cardoso    P e 1400   flw  (01)3864315 14.4k   24h
+                                   +3CD        (01)3889491 14.4k M 23:00-07:00
+
+SIMPOSIUM     Antonio Mira       O        fl   (01)2913074 14.4k   24h
+
+SKYLAB        Miguel Alves       s 1600   flr  (01)7269042 14.4k M 24h
+
+SKYSHIP       Mario Pozzetti <mario.pozze...@skyship.atos.puug.pt>
+                               M p 2100 cfilr  (01)3158088 16.8k H 24h
+                                   +1CD        (01)3151435 14.4k H 24h
+                                               (01)3151436 14.4k H 24h
+                                               (01)3158087 14.4k M 24h
+
+SURF GENERAT. Pedro Serrano       18000        (01)8885158
+                                   +3CD
+
+SVS           Sergio Vilhena     p    ?   f    (01)4752782  2400 22:00-08:00
+
+TECHNO        Carlos Almeida     ?    ?   flm  (034)747436  9600 M 21:00-19:00
+
+TELEFORUM     Fernando Edgar     q 1300   fl   (02)5106083 14.4k M 24h
+
+The Dentist's Armando Ruas       p             (01)9417308     ? 00:00-08:00
+House
+
+THE HOLE      Sampsa Laine       S    ?   fg   (01)4663448  9600 M 24h
+
+TRANS EUROPE  Nuno H.C. Mendes I 1 1600    l   (039)721932 14.4k M 24h
+
+TWILIGHT ZONE Johan Lindquist    ?    ?   fg   (01)4872199  2400 M 23:00-07:00
+
+UNIVERSITAS   Imeljoii Andrade   S  250        (02)2026478 14.4k   24h
+
+URANUS        Eduardo Freitas    x  250        (082)763316 14.4k M 24h
+                                   +1CD
+
+VISUS         Jose Camara      M p 3000 flmrtw (01)7935839 14.4k H 24h
+                                               (01)7964819 14.4k M 24h
+                                               (01)7964806 14.4k M 24h $
+                                               (01)7959376 14.4k M 20:00-07:00
+                                               (01)7959372  2400 M 24h
+                                               (01)7962158 14.4k H 24h $
+                                               (01)7959373 21.6k H 24h
+                                               (01)7964800 19.2k Z 24h $
+                                               (01)7959374  2400 M 24h $
+                                               (01)7959375  2400 M 20:30-07:30 $
+
+WALL STREET   Artur Madeira    M b  500   flm  (01)9217049  2400 M 23:00-11:00 $
+
+WILDCAT       Filipe Ferreira    f    ?   fltw (01)4105879 14.4k M 24h
+
+BBSs em mudancas:                     | BBSs changing:
+------------------------------        | ------------------------
+MAIL HOUSE    Carlos Santos    M p 2000 fglrtw (01)9889024 14.4k M 01:00-08:00 mail-only
+                                   +2CD
+    csan...@sunrise.dircon.co.uk
+
+BBSs temporariamente FECHADAS:        | BBSs temporarily CLOSED:
+------------------------------        | ------------------------
+
+Nome/Name     Sysop   Tema/Topic S  Cap  Mail  Acesso/Access
+-------------+----------------+-+-+----+------+-------------------------------
+AFTA          Rui Claro          p 1090   fl   (01)3637623 14.4k M 24h
+                                               (01)3637278  9600 M 20:00-09:00
+
+As seguintes BBSs FECHARAM:           | The following BBSs were CLOSED:
+---------------------------           | -------------------------------
+
+Nome/Name     Sysop   Tema/Topic S  Cap  Mail  Acesso/Access
+-------------+----------------+-+-+----+------+-------------------------------
+ATLANTIS      Jorge Amorim       u    ?        (01)2900614 14.4k M 00:00-08:00
+BIOSMATICA    Celso Martinho   A ?  260   f    (034)382320 14.4k M 24h
+BLASTER       Pedro Rosa       S u  200   flr  (01)3878640 14.4k M 24h
+BY NIGHT      Joao Lopes       P p  300   flr  (01)9200306 14.4k M 24h
+CAV 12        Alunos da Escola P p   60        (01)9211030  2400 18:00-09:00
+CIA LIAISON O Antonio Jorge      ?    ?   fl   (01)8152061 14.4k M 24h
+CRAZY HORSE   Druida Ganzado   X p  180        (032)422564  2400   24h
+ESE           Antonio Vieira     o    ?   f    (034)913092  2400   24h
+EUROCOM       Antonio Ricardo    O  200        (01)4427465 14.4k M 20:00-08:00
+FORGOTTEN R.  Yannick Menager    ?  105   f    (01)543909   2400 M 23:00-08:00
+HOTLINE       Paulo Gradim     P u    ?   fl   (01)3622110  2400 M 19:00-06:00
+                                               (01)3623737 14.4k M 24h
+HOTSUMMER     Paulo Adriano      ?    ?   fl   (01)9889642 14.4k M 24h
+INFORTEC      Rui Marramaque     S 1000   f    (02)6102163  2400 M 24h
+MESSERSCHMITT Joao Rodrigues     ?    ?    l   (01)2211286  2400   ?
+MULTIPIC      Fernando Pinho   P u  150    l   (01)4190047  2400 M 24h
+NIGHTMARE     Freddy Krueger     p    ?        (01)7741512  2400 M 24h
+OPORTO        Joao Romeu         R    ?        (02)578347   9600 M 24h
+PEDAGOGUS     Ribeiro Dias       p 2100        (053)616151  9600   24h
+PLATY         Joao Simoes        u    2        (01)3973401  2400 M 20:00-08:00
+PRO PATRIA    Luis Bita          u    ?   flm  (01)2247122  2400 23:30-09:00
+PSICOMATICA   Jose Azevedo       u   42   fl   (01)2756915  2400 21:30-09:00
+SOFTCLUB      Filipe Fernandes   ?    ?   fl   (039)493547 14.4k M 22:00-08:00
+STARDUST      Pedro Meunier      ?    ?   f    (039)701146 14.4k M ? 
